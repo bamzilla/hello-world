@@ -12,7 +12,7 @@ If you don't have those programs installed, follow the cmd list below to install
 ```bash
 sudo yum install git
 ```
-###Creat Hurley folder
+###Create Hurley folder
 
 ```
 mkdir path/to/hurley
