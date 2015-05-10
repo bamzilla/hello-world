@@ -52,8 +52,8 @@ sudo npm install gulp -g
 gem install bundler
 bundle install    
 ```
-### Note: Don't run 'bundle install' as sudo/root or it will fail/break
-
+### Note: don't run 'bundle install' as sudo/root or it will fail/break
+### QWERTYUIOPASDFGHJKLZXCVBNM
 ```
 gulp 
 ```
